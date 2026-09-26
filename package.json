@@ -1,0 +1,21 @@
+{
+  "name": "headballabdulla",
+  "version": "1.0.0",
+  "description": "HeadBallAbdulla - A Godot game exported to web with Vercel Analytics",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "lint": "echo 'No linter configured for static HTML'"
+  },
+  "keywords": [
+    "game",
+    "godot",
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
